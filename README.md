@@ -185,7 +185,8 @@ Informasi yang ditampilkan pada setiap card meliputi:
 - Title: Judul anime.
 - Year: Tahun rilis anime.
 - Score: Skor atau penilaian anime yang diberikan oleh sumber data.
-![Desain App](../images/app.png)
+
+![Desain App](images/app.png)
 
 ### 2. Installasi Package
 
